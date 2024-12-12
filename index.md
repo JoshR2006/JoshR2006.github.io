@@ -1,8 +1,9 @@
-//Joshua Ruiz's Portfolio
+
+#Joshua Ruiz's Portfolio
 
 I am a computer science major at CSUF and I plan on Graduating in 2028.
 
-//Favorite CPSC Labs
+##Favorite CPSC Labs
 
 Lab 4, Part 1
 One of my Favorite labs was lab 4 this is where we had to use the edit-compile-run -test-release cycle to write a line of code. I liked this la because this is when i started to get more used to coding and my partner was teaching me alot and helping me get used to it
